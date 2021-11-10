@@ -77,7 +77,7 @@ sudo yum -y update && sudo yum install -y \
 
 1. Clone the Streisand repository and enter the directory.
 
-        git clone https://github.com/StreisandEffect/streisand.git && cd streisand
+        git clone https://github.com/kassemz/streisand.git && cd streisand
 
 1. Run the installer for Ansible and its dependencies. The installer will detect missing packages, and print the commands needed to install them. (Ignore the Python 2.7 `DEPRECATION` warning; ignore the warning from python-novaclient that pbr 5.1.3 is incompatible.)
 
